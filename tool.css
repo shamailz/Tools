@@ -1,0 +1,172 @@
+body{
+	background-color: lightblue;
+
+}
+#name1{
+	font-family: 'Fredoka One', cursive;
+	text-decoration: none;
+	font-size: 50px;
+	text-align: center;
+} 
+#name1:hover{
+	font-family: 'Fredoka One', cursive;
+	text-decoration: underline;
+	color: darkgreen;
+}
+#name2{
+	font-family: 'Fredoka One', cursive;
+	text-decoration: none;
+	font-size: 50px;
+	text-align: center;
+}
+#name2:hover {
+	font-family: 'Fredoka One', cursive;
+	text-decoration: underline;
+	color: darkgreen;
+}
+#yellow1{
+	opacity: 0;
+	margin-left: 10vw;
+	margin-top: 10vh;
+}
+#yellow2{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow3{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow4{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow5{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow6{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow7{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow8{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow9{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow10{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow11{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow13{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow14{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow15{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow16{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow17{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow18{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#yellow19{
+	/*position: absolute;*/
+	opacity: 0;
+}
+
+#me1{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me2{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me3{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me4{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me5{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me6{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me7{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me8{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me9{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me10{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me11{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me12{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me13{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me14{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me15{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me16{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me17{
+	/*position: absolute;*/
+	opacity: 0;
+}
+#me18{
+	/*position: absolute;*/
+	opacity: 0;
+}
